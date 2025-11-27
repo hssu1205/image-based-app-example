@@ -1,6 +1,6 @@
-streamlit==1.51.0
-opencv-python-headless==4.12.0.88
-deepface==0.0.96
+streamlit
+opencv-python-headless
+deepface
 tf-keras
-pillow==12.0.0
-numpy==2.3.5
+pillow
+numpy<2.0.0
